@@ -1,0 +1,22 @@
+.numBtm{
+ padding: 20px;
+ border: none;
+ background: blue;
+  color: white;
+
+}
+.numBtr{
+
+  padding: 20px;
+  border: 69px;
+  background: black ;
+   color: white;
+   padding-left: 70px;
+   padding-right: 70px;
+
+}
+h1{
+  padding: 1rem;
+  text-align: center;
+  margin: 0;
+}
